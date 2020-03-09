@@ -1,0 +1,1869 @@
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\skn\Documents\Visual Studio 2017\Projects\MonoGame\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\3D_Object_Moving\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\3D_Object_Movingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ \Remaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Remainingnew\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Remainingnewer\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingNew - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingEndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingEndMe\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingHappyDays\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemaingAliveThanksToPerseverenceAndHopefulness\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingBackToPain - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\RemainingEvenFurtherBeyond - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingSmooth - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingSorta - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooMuchWorkRemaining - Copy - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\Yo]\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingBrokenMovement\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingWeapons\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\RemainingWeapons - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\grw\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\GunDontWorkInnit - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Gun Needs Fixing\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ytho\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\BoutToStartCrying\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\HeheKid - Copy - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\ThisIsGoingTooWell\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe.CodeAnalysisLog.xml
+C:\Users\Keiron\Desktop\Almost There\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe.lastcodeanalysissucceeded
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\deadinside\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\Keiron\Desktop\same\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\EndGame\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank - Copy (2)\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex_0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\background.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\File.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\FontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFontFile.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile0.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileDown.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileLeft.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileRight.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\tileUp.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.fbm\zombie_tex - Copy.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\ControlsPage.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\pausedTexture.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\PlayerFont.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\rectangleTex.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\RemainingLogo.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\Content\Zombie_low4.xnb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\3D_Object_Moving.pdb
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csprojAssemblyReference.cache
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CoreCompileInputs.cache
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.csproj.CopyComplete
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.exe
+C:\Users\bite\Desktop\TooDank - Copy (3) - Copy\3D_Object_Moving\obj\x86\Debug\3D_Object_Moving.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/ControlsPage.png</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/gun.fbx</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/pausedTexture.png</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/rectangleTex.png</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/RemainingLogo.png</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/Zombie_low4.fbm/zombie_tex - Copy.png</File>
+    <File>C:/Users/Keiro/Desktop/Year13Project/3D_Object_Moving/Content/Zombie_low4.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

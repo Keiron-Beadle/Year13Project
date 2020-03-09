@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3D_Object_Moving.Bullet" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAgAAAACAAACAAAAAAAAMgAAEAAAABBACAAAAAAA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Floor" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAAgABAAAAEAABAgAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Floor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Game1" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="_3D_Object_Moving.Game1.GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IDQQuEECDIeCI0ABEEEKAcBhQQAYhAiB5AigEhgAAE4=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.GameModel" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFAEUABDABIIAAEgCAABIAAAAIARAAEAQQAQAAAYEAA=</HashCode>
+      <FileName>GameModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Grid" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAEAAAACAAAAAAAAAAAAAAwAAAAgICAAAAAAEAAAAA=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.InteractableRectangle" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAgAAAAAAIAAAAAAAAACAAAAAAEAABIA=</HashCode>
+      <FileName>InteractableRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Items" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAIgAAAACACAAAAIAAAgAAABAAAAAAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.MazeWalls" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MazeWalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Node" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFAAUABDABAIAAEgCAAAIAUAAIARAAGAARAQAAAQEgA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Player" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAANAAIgAAKBwACMABwAIBBFNQAEIAABAgACQAAg=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Program" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Walls" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFAAUABDABAIAAEgCAAAIAAAAAARAAEAAQAQAAAQEAA=</HashCode>
+      <FileName>Walls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.XAxisWalls" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>XAxisWalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.ZAxisWalls" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ZAxisWalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3D_Object_Moving.Zombie" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAgAAQAABIAAAAgAQAAAAAAAABAAgAAABAg=</HashCode>
+      <FileName>Zombie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
